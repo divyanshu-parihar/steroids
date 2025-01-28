@@ -2,6 +2,7 @@
   "name": "steroids",
   "module": "index.ts",
   "type": "module",
+  "start":"bun run index.ts",
   "devDependencies": {
     "@types/bun": "latest"
   },
